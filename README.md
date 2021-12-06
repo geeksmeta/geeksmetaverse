@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @geeksmetaverse
-- 👀 I’m interested in Computer Science, Data Science, MetScienceverse
+- 👀 I’m interested in Computer Science, Data Science, Metaverse
 
 <!---
 - 🌱 I’m currently learning ...
